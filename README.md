@@ -28,6 +28,7 @@ This dataset contains +5k unique titles on Netflix with 15 columns containing th
 13) imdb_votes: Votes on IMDB.
 14) tmdb_popularity: Popularity on TMDB.
 15) tmdb_score: Score on TMDB.
+
 And over +77k credits of actors and directors on Netflix titles with 5 columns containing their information, including:
 
 16) person_ID: The person ID on JustWatch.
